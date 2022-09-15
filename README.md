@@ -1,6 +1,4 @@
-NLP新人
-数据挖掘新人
-努力学习中
+NLP 博0 努力加油中
 
 <!---
 pandinghao/pandinghao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
